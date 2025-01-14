@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.footer__social_links {
+    background-color:;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer__social_links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer__social_links li {
+    margin: 0 10px;
+}
+
+
+.footer__social_links i {
+    margin-right:5px ;
+    color:white;
+}
+
+.footer__social_links .tgo i:hover{
+  color:#0088cc;
+}
+
+.footer__social_links .tw i:hover {
+    color: #1DA1F2;  /* Twitter blue */
+}
+
+.footer__social_links .ms i:hover{
+    color: #6364FF;  /* Mastodon purple */
+}
+
+.footer__social_links .tgc i:hover {
+    color: #0088cc;  /* Telegram blue */
+}
+
+.footer__social_links .wc i:hover {
+    color: #7BB32E;  /* WeChat green */
+}
+
+.footer__social_links .bb i:hover {
+    color: #00A1D6;  /* Bilibili blue */
+}
+
+.footer__social_links .break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.rounded-button{
+  padding:2px;
+  border-radius: 12px;
+  text-align: center;
+  background-color: skyblue;
+  margin:0 10px;
+}
+ img {
+        border: solid 2px gold;
+        border-radius: 50px;
+        height: 50px;
+        width: 50px;
+    }
