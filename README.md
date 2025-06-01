@@ -1,4 +1,4 @@
-# This is a testing website using html and css but in future i will use java script also.....
+
 # Fancy
 
 Welcome to **Fancy** – a testing website project!  
