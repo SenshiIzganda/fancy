@@ -1,5 +1,5 @@
 
-# Fancy
+# Senshi
 
 Welcome to **Fancy** – a testing website project!  
 Currently built with **HTML** and **CSS**. Future updates will introduce **JavaScript** for dynamic features and enhanced interactivity.
